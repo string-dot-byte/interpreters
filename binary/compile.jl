@@ -1,5 +1,3 @@
-str = "01010110 01101001 01101011 01100101 01101110"
-
 function interpretBinary(strg)
 	local characters, index, start, Results
 
